@@ -1,0 +1,3881 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"au" = (
+/obj/structure/closet/firecloset,
+/turf/open/floor/plating,
+/area/space)
+"aJ" = (
+/obj/effect/turf_decal/corner/transparent/green{
+	dir = 9
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"aQ" = (
+/obj/machinery/door/airlock/medical,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"aU" = (
+/obj/effect/turf_decal/corner/transparent/white/three_quarters{
+	dir = 4
+	},
+/obj/structure/closet/secure_closet{
+	icon_state = "med_secure";
+	name = "medical intern's locker"
+	},
+/obj/item/storage/firstaid/regular,
+/obj/item/storage/firstaid/radiation,
+/obj/item/storage/firstaid/o2,
+/obj/item/storage/firstaid/fire,
+/obj/item/storage/firstaid/brute,
+/obj/item/storage/firstaid/toxin,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"bf" = (
+/obj/machinery/door/airlock/mining/glass{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"bv" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/storage/firstaid/tactical,
+/obj/structure/table/chem,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"bX" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/mob_spawn/human/corpse/syndicatesoldier,
+/obj/effect/decal/cleanable/blood/splatter{
+	pixel_y = -14
+	},
+/obj/effect/decal/cleanable/blood/tracks,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"cg" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ci" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 6
+	},
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4;
+	pixel_y = 9;
+	pixel_x = 18
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"cj" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 9
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/item/mine/pressure/explosive/rusty/live,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"cl" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/mine/pressure/explosive/shrapnel/live,
+/obj/effect/decal/cleanable/blood/splatter,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"cn" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/decal/cleanable/vomit,
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"dp" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"dz" = (
+/turf/open/lava/smooth/lava_land_surface,
+/area/space)
+"dN" = (
+/obj/effect/turf_decal/corner/transparent/green{
+	dir = 10
+	},
+/obj/structure/table/chem,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"dU" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/closet/firecloset,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"eA" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/structure/fluff/paper/stack{
+	dir = 9
+	},
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"fy" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/mine/pressure/explosive/shrapnel/live,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"fJ" = (
+/obj/machinery/door/airlock/external{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/space)
+"fK" = (
+/obj/effect/decal/cleanable/blood/splatter,
+/turf/open/floor/plating/grass/jungle,
+/area/space)
+"fP" = (
+/obj/structure/table/wood/bar,
+/obj/machinery/chem_dispenser/drinks/beer{
+	dir = 1
+	},
+/turf/open/floor/wood/walnut,
+/area/space)
+"gt" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/syndicate/ranged/shotgun/space/stormtrooper,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"gx" = (
+/obj/effect/turf_decal/corner/transparent/green/three_quarters{
+	dir = 8
+	},
+/obj/structure/table/chem,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"gZ" = (
+/turf/open/floor/plating{
+	icon_state = "platingdmg1"
+	},
+/area/space)
+"ha" = (
+/turf/closed/indestructible/syndicate,
+/area/space)
+"hb" = (
+/obj/effect/turf_decal/corner/transparent/green{
+	dir = 9
+	},
+/obj/structure/table/chem,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ht" = (
+/turf/open/floor/plasteel/telecomms_floor,
+/area/space)
+"hA" = (
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"hP" = (
+/obj/machinery/computer/arcade,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"il" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/nanotrasen/elite,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"in" = (
+/obj/machinery/door/airlock,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"iq" = (
+/obj/effect/turf_decal/corner/transparent/solgovgold{
+	dir = 9
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ir" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"iE" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/extinguisher_cabinet/directional/east,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"iK" = (
+/obj/effect/turf_decal/corner/transparent/green{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"iN" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/syndicate/melee/sword/space/stormtrooper,
+/turf/open/floor/plasteel/telecomms_floor,
+/area/space)
+"jH" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/dualsaber/red,
+/obj/structure/fluff/paper/stack{
+	dir = 4
+	},
+/turf/open/floor/plasteel/tech,
+/area/space)
+"jP" = (
+/obj/structure/table/chem,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"kQ" = (
+/obj/machinery/door/airlock/medical/glass{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"kZ" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/structure/table/reinforced,
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"la" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4;
+	pixel_y = 9;
+	pixel_x = 18
+	},
+/obj/effect/decal/cleanable/blood/gibs/core,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"lq" = (
+/obj/machinery/nuclearbomb/beer{
+	desc = "A beer keg designed to look like a nuclear fission explosive. Its old and incredibly dusty. There seems to be a tap on the back.";
+	name = "Syndicate Beer Keg"
+	},
+/turf/open/floor/plasteel/tech,
+/area/space)
+"lv" = (
+/obj/effect/turf_decal/corner/transparent/syndiered/three_quarters{
+	dir = 1
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"lA" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/mapping_helpers/airlock/locked,
+/obj/machinery/door/airlock/vault/derelict{
+	id_tag = "vaultdoor"
+	},
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"lQ" = (
+/obj/effect/decal/cleanable/ash/large,
+/turf/open/floor/plating{
+	icon_state = "platingdmg1"
+	},
+/area/space)
+"lT" = (
+/obj/machinery/door/airlock/grunge{
+	dir = 8
+	},
+/turf/open/floor/plasteel/tech,
+/area/space)
+"lU" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 10
+	},
+/obj/effect/decal/cleanable/blood/gibs/up,
+/obj/effect/mob_spawn/human/corpse/syndicatesoldier,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"mc" = (
+/obj/effect/turf_decal/corner/transparent/solgovgold{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ms" = (
+/obj/effect/turf_decal/corner/transparent/brown{
+	dir = 5
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"mN" = (
+/obj/structure/table/reinforced,
+/obj/effect/turf_decal/corner/transparent/white/three_quarters,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"mX" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 10
+	},
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/syndicate/ranged/smg/space,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"nn" = (
+/obj/effect/turf_decal/corner/transparent/white/three_quarters,
+/obj/structure/table/reinforced,
+/obj/item/storage/backpack/duffelbag/syndie/surgery{
+	pixel_y = 7
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"nG" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/mecha_wreckage/ripley/deathripley,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"nP" = (
+/obj/effect/turf_decal/corner/transparent/solgovgold/three_quarters,
+/obj/machinery/vending/engivend,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"nW" = (
+/obj/effect/turf_decal/corner/transparent/solgovgold/three_quarters{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"nX" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/filingcabinet,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"om" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating/grass/jungle,
+/area/space)
+"oG" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/mob_spawn/human/corpse/nanotrasenassaultsoldier,
+/turf/open/floor/plasteel/telecomms_floor,
+/area/space)
+"oM" = (
+/obj/structure/table/chem,
+/obj/machinery/reagentgrinder{
+	pixel_y = 10
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"oV" = (
+/obj/effect/decal/cleanable/wrapping,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ps" = (
+/obj/item/mine/pressure/explosive/shrapnel/live,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"pH" = (
+/obj/machinery/door/airlock/grunge{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"pT" = (
+/obj/effect/turf_decal/corner/transparent/solgovgold{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/blood/drip,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"pX" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/blood/gibs/down,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"qe" = (
+/obj/effect/turf_decal/corner/transparent/green/three_quarters{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"qo" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/corner_steel_grid/diagonal,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"qB" = (
+/obj/machinery/door/airlock/grunge,
+/turf/open/floor/plasteel/patterned/grid,
+/area/space)
+"qE" = (
+/obj/effect/turf_decal/corner/transparent/green/three_quarters{
+	dir = 4
+	},
+/obj/structure/table/chem,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"qH" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/suit_storage_unit/syndicate,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"qI" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/cobweb,
+/obj/structure/bed{
+	dir = 1
+	},
+/obj/item/bedsheet/syndie{
+	dir = 1
+	},
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"qK" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating{
+	icon_state = "panelscorched";
+	initial_gas_mix = "ws_atmos"
+	},
+/area/space)
+"qP" = (
+/obj/machinery/chem_heater,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"qZ" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/stack/sheet/animalhide/monkey,
+/obj/effect/decal/cleanable/blood/gibs/down,
+/turf/open/floor/plating/grass/jungle,
+/area/space)
+"re" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 10
+	},
+/obj/effect/decal/cleanable/blood/gibs/core,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"rk" = (
+/obj/effect/decal/cleanable/robot_debris/up,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"ro" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/storage/backpack/duffelbag/syndie/bulldogbundle,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"sc" = (
+/obj/effect/turf_decal/corner/transparent/green/three_quarters{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"sj" = (
+/obj/structure/fluff/paper/stack{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"sB" = (
+/obj/effect/turf_decal/corner/transparent/green/three_quarters{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ta" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/mine/pressure/explosive/shrapnel/live,
+/turf/open/floor/plasteel/telecomms_floor,
+/area/space)
+"tw" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/robot_debris/down,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"tx" = (
+/obj/effect/turf_decal/corner/transparent/solgovgold/three_quarters{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"tE" = (
+/obj/structure/table/reinforced,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"tH" = (
+/obj/effect/turf_decal/corner/transparent/solgovgold{
+	dir = 10
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"tT" = (
+/obj/item/mine/pressure/explosive/rusty/live,
+/turf/open/floor/plating{
+	icon_state = "platingdmg2"
+	},
+/area/space)
+"tW" = (
+/obj/effect/turf_decal/corner/transparent/syndiered/three_quarters{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/corner_techfloor_grid{
+	dir = 1
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ur" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/confetti,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"uD" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/blood/tracks,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"uK" = (
+/mob/living/simple_animal/hostile/syndicate/melee,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"uT" = (
+/turf/open/floor/plating,
+/area/space)
+"vd" = (
+/obj/machinery/door/airlock/external,
+/obj/effect/mapping_helpers/airlock/locked,
+/turf/open/floor/plating,
+/area/space)
+"vN" = (
+/obj/effect/turf_decal/corner/transparent/syndiered/three_quarters,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ww" = (
+/obj/effect/decal/cleanable/glass/plasma,
+/turf/open/floor/plating{
+	icon_state = "platingdmg1"
+	},
+/area/space)
+"wE" = (
+/obj/machinery/door/airlock/medical/glass{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4;
+	pixel_y = 9;
+	pixel_x = 18
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"wT" = (
+/obj/effect/turf_decal/corner/transparent/brown{
+	dir = 5
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/mecha_wreckage/seraph,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"wW" = (
+/turf/open/floor/plating{
+	icon_state = "panelscorched";
+	initial_gas_mix = "ws_atmos"
+	},
+/area/space)
+"xj" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 6
+	},
+/obj/machinery/computer/operating{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"xk" = (
+/obj/effect/turf_decal/corner/transparent/solgovgold{
+	dir = 9
+	},
+/obj/effect/decal/cleanable/oil/streak,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"xv" = (
+/obj/effect/mob_spawn/human/corpse/nanotrasenassaultsoldier,
+/turf/open/floor/plasteel/telecomms_floor,
+/area/space)
+"xy" = (
+/obj/machinery/door/airlock/medical/glass,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"xK" = (
+/obj/structure/closet/crate/secure/loot,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"yb" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 9
+	},
+/obj/machinery/sleeper/syndie{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"yd" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/turf_decal/corner_steel_grid/diagonal,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"yj" = (
+/obj/structure/table/wood/bar,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"yo" = (
+/obj/effect/turf_decal/corner/transparent/syndiered,
+/mob/living/simple_animal/hostile/syndicate/ranged/shotgun,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"yC" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 1
+	},
+/obj/effect/mob_spawn/human/corpse/syndicatesoldier,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"yF" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/wrapping,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"yK" = (
+/obj/effect/turf_decal/corner/transparent/green{
+	dir = 6
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"yQ" = (
+/obj/effect/turf_decal/corner/transparent/green{
+	dir = 9
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/mecha_wreckage/mauler,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ze" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 10
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/blood/drip,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"zi" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"zo" = (
+/obj/effect/decal/cleanable/chem_pile,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"zr" = (
+/obj/effect/turf_decal/corner/transparent/brown{
+	dir = 6
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"zv" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 10
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"zD" = (
+/obj/effect/turf_decal/corner/transparent/syndiered/three_quarters{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"An" = (
+/obj/effect/turf_decal/corner/transparent/solgovgold{
+	dir = 6
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Ap" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/mine/pressure/explosive/shrapnel/live,
+/turf/open/floor/wood/walnut,
+/area/space)
+"Ay" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"AW" = (
+/obj/effect/decal/cleanable/robot_debris/gib,
+/turf/open/floor/plating,
+/area/space)
+"Bh" = (
+/obj/effect/turf_decal/corner_steel_grid/diagonal,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Bk" = (
+/obj/effect/decal/cleanable/garbage,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Bq" = (
+/mob/living/simple_animal/hostile/syndicate/melee/space,
+/turf/open/floor/plasteel/freezer,
+/area/space)
+"Bx" = (
+/obj/effect/decal/cleanable/blood/footprints{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/blood/innards{
+	pixel_y = 9;
+	pixel_x = 5
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Bz" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/fluff/paper/stack{
+	dir = 6
+	},
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"BK" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/mob_spawn/human/corpse/nanotrasensoldier,
+/obj/effect/decal/cleanable/blood/gibs/up,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"BR" = (
+/obj/effect/turf_decal/corner/transparent/syndiered/three_quarters{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/robot_debris,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Ck" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/plasteel/freezer,
+/area/space)
+"Co" = (
+/obj/effect/turf_decal/corner/transparent/brown{
+	dir = 5
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Cr" = (
+/obj/structure/table/wood/bar,
+/obj/effect/decal/cleanable/confetti,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"Ct" = (
+/obj/effect/turf_decal/corner/transparent/brown/three_quarters{
+	dir = 8
+	},
+/obj/structure/extinguisher_cabinet/directional/north,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Cx" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 5
+	},
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/nanotrasen/ranged/smg,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"CE" = (
+/obj/machinery/door/airlock/research,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"CW" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/blood/splatter{
+	pixel_y = 6;
+	pixel_x = 24
+	},
+/obj/effect/decal/cleanable/blood/drip,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"CY" = (
+/obj/structure/table/wood/bar,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood/walnut,
+/area/space)
+"De" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/structure/salvageable/computer{
+	dir = 1
+	},
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"Dh" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 6
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"DD" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/mob_spawn/human/corpse/syndicatesoldier,
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"DI" = (
+/obj/effect/decal/cleanable/greenglow,
+/turf/open/floor/plating{
+	icon_state = "platingdmg2"
+	},
+/area/space)
+"DV" = (
+/obj/effect/turf_decal/corner/transparent/green/three_quarters{
+	dir = 1
+	},
+/obj/structure/table/chem,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Eg" = (
+/obj/structure/filingcabinet,
+/obj/item/documents/syndicate,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"En" = (
+/obj/effect/turf_decal/corner/transparent/syndiered/three_quarters{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Eo" = (
+/obj/machinery/door/airlock/grunge,
+/obj/effect/mapping_helpers/airlock/locked,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Eq" = (
+/obj/machinery/suit_storage_unit,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"EC" = (
+/obj/effect/turf_decal/corner/transparent/solgovgold,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/oil/slippery,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Fh" = (
+/obj/effect/turf_decal/corner_techfloor_grid/diagonal,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Fm" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 5
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"FE" = (
+/obj/effect/turf_decal/corner/transparent/syndiered/three_quarters{
+	dir = 4
+	},
+/obj/machinery/vending/snack,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"FI" = (
+/obj/effect/decal/cleanable/ash/large,
+/turf/open/floor/plating{
+	icon_state = "panelscorched"
+	},
+/area/space)
+"FN" = (
+/obj/effect/turf_decal/corner/transparent/white/three_quarters,
+/obj/machinery/vending/medical/syndicate_access,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Gb" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/salvageable/computer{
+	dir = 4
+	},
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"Ge" = (
+/obj/machinery/door/airlock/public/glass,
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 6
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Gg" = (
+/obj/effect/turf_decal/corner/transparent/syndiered/three_quarters{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Gt" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/syndicate/ranged/smg/space,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"GI" = (
+/obj/effect/turf_decal/corner/transparent/white/three_quarters{
+	dir = 8
+	},
+/obj/structure/bodycontainer/morgue{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"GK" = (
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/obj/structure/fluff/paper/stack{
+	dir = 1
+	},
+/turf/open/floor/plasteel/tech,
+/area/space)
+"He" = (
+/obj/structure/table/reinforced,
+/obj/effect/turf_decal/corner/transparent/white/three_quarters{
+	dir = 8
+	},
+/obj/item/wheelchair,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"HM" = (
+/obj/structure/toilet,
+/obj/effect/decal/cleanable/generic,
+/turf/open/floor/plasteel/patterned/grid,
+/area/space)
+"HO" = (
+/obj/machinery/door/airlock/virology{
+	dir = 8
+	},
+/obj/effect/mapping_helpers/airlock/locked,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"HR" = (
+/obj/effect/turf_decal/corner/transparent/syndiered/three_quarters{
+	dir = 1
+	},
+/obj/effect/turf_decal/corner_techfloor_grid{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"HW" = (
+/turf/closed/wall/mineral/plastitanium,
+/area/space)
+"Ih" = (
+/obj/structure/window/plasma/reinforced/plastitanium,
+/turf/open/floor/plating,
+/area/space)
+"IH" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 9
+	},
+/obj/structure/closet/crate/freezer/blood,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"IP" = (
+/obj/item/mine/pressure/explosive/rusty/live,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"IR" = (
+/obj/structure/table/wood/bar,
+/turf/open/floor/wood/walnut,
+/area/space)
+"IS" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/ammo_casing/spent{
+	pixel_y = 4;
+	pixel_x = 8
+	},
+/obj/item/ammo_casing/spent{
+	pixel_y = -12
+	},
+/obj/item/ammo_casing/spent{
+	pixel_y = -6;
+	pixel_x = -8
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"IY" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood/walnut,
+/area/space)
+"Je" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Ji" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4;
+	pixel_y = 9;
+	pixel_x = 18
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Jl" = (
+/obj/effect/turf_decal/corner/transparent/syndiered/three_quarters{
+	dir = 4
+	},
+/obj/structure/extinguisher_cabinet/directional/west,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Ju" = (
+/obj/effect/decal/cleanable/confetti,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"Jx" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/table/reinforced,
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"JH" = (
+/obj/effect/decal/cleanable/shreds,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"JL" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/syndicatebomb/empty,
+/turf/open/floor/plasteel/telecomms_floor,
+/area/space)
+"JM" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 1
+	},
+/mob/living/simple_animal/hostile/nanotrasen/ranged/smg,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Kl" = (
+/obj/effect/decal/cleanable/robot_debris/limb,
+/turf/open/floor/plating{
+	icon_state = "platingdmg3"
+	},
+/area/space)
+"Kx" = (
+/obj/effect/turf_decal/corner/transparent/syndiered,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Ky" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 9
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"KE" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 8
+	},
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"KJ" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/syndicate/ranged/smg/space,
+/obj/effect/turf_decal/corner_steel_grid/diagonal,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"KL" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/closet/emcloset,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"KR" = (
+/obj/machinery/smartfridge/chemistry/preloaded,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"KW" = (
+/obj/structure/fluff/paper/stack{
+	dir = 6
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"KX" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/closet/crate/secure/loot,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Lf" = (
+/obj/effect/turf_decal/corner/transparent/green/three_quarters{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/obj/structure/extinguisher_cabinet/directional/north,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Lg" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 5
+	},
+/mob/living/simple_animal/hostile/nanotrasen/ranged,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Li" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"LF" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 9
+	},
+/obj/structure/fluff/empty_sleeper/syndicate{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"LM" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/structure/salvageable/computer{
+	dir = 4
+	},
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"LR" = (
+/obj/machinery/door/airlock/engineering{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"LY" = (
+/obj/effect/mapping_helpers/airlock/locked,
+/obj/machinery/door/airlock/vault/derelict{
+	id_tag = "vaultdoor"
+	},
+/turf/open/floor/plasteel/tech,
+/area/space)
+"MG" = (
+/obj/machinery/door/airlock/virology{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"MI" = (
+/obj/effect/turf_decal/corner/transparent/green/three_quarters,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"MK" = (
+/obj/machinery/door/airlock/engineering,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"MR" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 9
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4;
+	pixel_y = 9;
+	pixel_x = 18
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Nj" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 6
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Np" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/ash,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ND" = (
+/obj/machinery/door/airlock/virology,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"NF" = (
+/obj/effect/decal/cleanable/food/egg_smudge,
+/turf/open/floor/wood/walnut,
+/area/space)
+"Of" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/plasteel/telecomms_floor,
+/area/space)
+"On" = (
+/obj/machinery/door/airlock/hatch,
+/turf/open/floor/plating,
+/area/space)
+"Op" = (
+/obj/structure/window/plasma/reinforced/plastitanium,
+/turf/open/floor/plating/asteroid/basalt/lava_land_surface/lit,
+/area/space)
+"Oq" = (
+/obj/effect/decal/cleanable/ash/large,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Ot" = (
+/obj/effect/turf_decal/corner/transparent/green{
+	dir = 6
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Ou" = (
+/obj/effect/decal/cleanable/ash,
+/turf/open/floor/plating{
+	icon_state = "platingdmg1"
+	},
+/area/space)
+"OI" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/turf_decal/corner/transparent/black/full,
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"OM" = (
+/obj/machinery/door/airlock/public/glass,
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 9
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ON" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/blood/innards,
+/turf/open/floor/plating/grass/jungle,
+/area/space)
+"OV" = (
+/obj/machinery/door/airlock/external,
+/turf/open/floor/plating,
+/area/space)
+"Pi" = (
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Pj" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 5
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Ps" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/fluff/paper/stack{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Pz" = (
+/obj/effect/turf_decal/corner/transparent/green/three_quarters{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"PD" = (
+/obj/structure/closet/emcloset,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"PE" = (
+/obj/effect/turf_decal/corner/transparent/green/three_quarters,
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/closet/emcloset,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"PG" = (
+/obj/machinery/vending/dinnerware,
+/turf/open/floor/plasteel/freezer,
+/area/space)
+"PH" = (
+/obj/effect/turf_decal/corner/transparent/green{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"PN" = (
+/obj/structure/closet/crate/secure/gear,
+/obj/item/clothing/gloves/combat,
+/obj/item/clothing/gloves/combat,
+/obj/item/clothing/mask/gas/syndicate,
+/obj/item/clothing/mask/gas/syndicate,
+/obj/item/clothing/shoes/combat,
+/obj/item/clothing/shoes/combat,
+/obj/item/clothing/under/syndicate,
+/obj/item/clothing/under/syndicate,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Qc" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 10
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"QJ" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"QL" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/nanotrasen/ranged/assault,
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"QQ" = (
+/obj/effect/turf_decal/corner/transparent/syndiered/three_quarters{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"QS" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/telecomms_floor,
+/area/space)
+"Rm" = (
+/obj/structure/table/wood/bar,
+/obj/machinery/reagentgrinder{
+	pixel_y = 10
+	},
+/turf/open/floor/wood/walnut,
+/area/space)
+"Rt" = (
+/obj/machinery/door/airlock/hatch{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/space)
+"Ru" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/vending/toyliberationstation,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"RI" = (
+/obj/effect/mob_spawn/human/corpse/syndicatesoldier,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Sc" = (
+/obj/effect/turf_decal/corner/transparent/solgovgold/three_quarters{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/cobweb,
+/mob/living/simple_animal/hostile/nanotrasen/ranged/assault,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Se" = (
+/obj/machinery/door/airlock{
+	dir = 4
+	},
+/turf/open/floor/wood/walnut,
+/area/space)
+"Si" = (
+/turf/open/floor/plating/asteroid/basalt/lava_land_surface/lit,
+/area/space)
+"Sn" = (
+/obj/effect/turf_decal/corner/transparent/white,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"SB" = (
+/turf/open/floor/plating{
+	icon_state = "platingdmg3"
+	},
+/area/space)
+"SI" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 10
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"SQ" = (
+/obj/effect/turf_decal/corner/transparent/white/three_quarters{
+	dir = 1
+	},
+/obj/structure/closet/emcloset,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"SZ" = (
+/turf/open/floor/plating{
+	icon_state = "platingdmg2"
+	},
+/area/space)
+"Tb" = (
+/obj/effect/turf_decal/corner/transparent/white/three_quarters{
+	dir = 4
+	},
+/obj/structure/table/reinforced,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Tn" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 9
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Tw" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 5
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"TF" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 10
+	},
+/obj/structure/table/reinforced,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"TN" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/nanotrasen/elite,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"TS" = (
+/obj/machinery/chem_dispenser,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"TT" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/syndicate/ranged/smg,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"TX" = (
+/obj/effect/decal/cleanable/generic,
+/turf/open/floor/wood/walnut,
+/area/space)
+"Uf" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 6
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Ui" = (
+/obj/item/mine/pressure/explosive/live,
+/turf/open/floor/plating{
+	icon_state = "platingdmg2"
+	},
+/area/space)
+"Uj" = (
+/mob/living/simple_animal/hostile/nanotrasen/ranged/smg,
+/turf/open/floor/plating,
+/area/space)
+"Ur" = (
+/obj/structure/table/wood/bar,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"UY" = (
+/obj/item/storage/box/monkeycubes,
+/turf/open/floor/plating/grass/jungle,
+/area/space)
+"UZ" = (
+/obj/effect/turf_decal/corner/transparent/white/three_quarters{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Vj" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/closet/crate/secure/gear,
+/obj/item/ammo_box/c10mm,
+/obj/item/ammo_box/c10mm,
+/obj/item/ammo_box/c10mm,
+/obj/item/ammo_box/c10mm,
+/obj/item/ammo_box/a12g,
+/obj/item/ammo_box/a12g,
+/obj/item/ammo_box/a12g,
+/obj/item/ammo_box/a12g,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Vv" = (
+/turf/open/floor/plasteel/tech,
+/area/space)
+"VR" = (
+/obj/effect/turf_decal/corner/transparent/green{
+	dir = 6
+	},
+/obj/structure/fluff/paper/stack{
+	dir = 1
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Wg" = (
+/obj/effect/mob_spawn/human/clown/corpse,
+/obj/structure/bed,
+/obj/item/bedsheet/syndie,
+/obj/effect/decal/cleanable/confetti,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"Wk" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/freezer,
+/area/space)
+"Wq" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 5
+	},
+/obj/effect/decal/cleanable/blood/drip{
+	pixel_x = 7;
+	pixel_y = -8
+	},
+/obj/effect/decal/cleanable/blood/gibs/limb{
+	pixel_y = -14
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Ww" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Wx" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/vending/cola/sodie,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"Xd" = (
+/turf/open/floor/plating{
+	icon_state = "panelscorched"
+	},
+/area/space)
+"Xf" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"XY" = (
+/turf/closed/indestructible/opsglass,
+/area/space)
+"Yh" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/telecomms/relay/preset/syndicate,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"Ym" = (
+/obj/machinery/door/airlock/grunge,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Ys" = (
+/obj/structure/filingcabinet,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"Yw" = (
+/obj/effect/turf_decal/corner/transparent/solgovgold/three_quarters,
+/obj/structure/extinguisher_cabinet/directional/east,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Yx" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"YA" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/blood/gibs/body,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"YL" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"YP" = (
+/obj/effect/turf_decal/corner/transparent/white{
+	dir = 6
+	},
+/obj/structure/table/optable,
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"YR" = (
+/obj/effect/turf_decal/corner/transparent/black/full,
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"YS" = (
+/obj/effect/mob_spawn/human/corpse/syndicatesoldier,
+/obj/structure/bed,
+/obj/item/bedsheet/syndie,
+/turf/open/floor/plasteel/grimy,
+/area/space)
+"YZ" = (
+/obj/effect/decal/cleanable/blood/drip,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Zl" = (
+/obj/machinery/door/airlock/public/glass{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Zq" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/table/wood/bar,
+/obj/machinery/chem_dispenser/drinks{
+	dir = 1
+	},
+/turf/open/floor/wood/walnut,
+/area/space)
+"ZG" = (
+/obj/effect/turf_decal/corner/transparent/syndiered{
+	dir = 5
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ZH" = (
+/obj/machinery/chem_master,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ZQ" = (
+/obj/effect/turf_decal/corner/transparent/syndiered,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ZT" = (
+/obj/effect/decal/cleanable/garbage,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"ZX" = (
+/obj/effect/turf_decal/corner/transparent/syndiered/three_quarters,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ZZ" = (
+/obj/effect/turf_decal/corner/transparent/syndiered/three_quarters{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/space)
+
+(1,1,1) = {"
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(2,1,1) = {"
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(3,1,1) = {"
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(4,1,1) = {"
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+dz
+Si
+dz
+dz
+dz
+dz
+ha
+ha
+ha
+ha
+ha
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(5,1,1) = {"
+Si
+Si
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+dz
+Si
+Si
+dz
+dz
+Si
+Si
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+ha
+ha
+ht
+Yh
+QS
+ha
+ha
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(6,1,1) = {"
+Si
+Si
+Si
+dz
+dz
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+ha
+Of
+oG
+jH
+ht
+ta
+ha
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+"}
+(7,1,1) = {"
+Si
+Si
+Si
+dz
+dz
+dz
+dz
+HW
+HW
+HW
+HW
+HW
+HW
+dz
+dz
+dz
+dz
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+ha
+ha
+ha
+lT
+ha
+ha
+ha
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+"}
+(8,1,1) = {"
+Si
+Si
+Si
+dz
+dz
+dz
+dz
+HW
+QJ
+Pi
+Op
+QJ
+HW
+HW
+HW
+HW
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+XY
+nX
+eA
+Gb
+LM
+ha
+ha
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+"}
+(9,1,1) = {"
+Si
+Si
+Si
+dz
+dz
+dz
+dz
+HW
+jP
+QJ
+ND
+QJ
+Ih
+UY
+om
+HW
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+XY
+Ys
+Bz
+dp
+QL
+De
+ha
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+"}
+(10,1,1) = {"
+Si
+Si
+dz
+dz
+dz
+dz
+dz
+HW
+Op
+Op
+Op
+QJ
+ND
+om
+fK
+HW
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+XY
+il
+OI
+Jx
+kZ
+Jx
+ha
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+"}
+(11,1,1) = {"
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+HW
+Gt
+Pi
+Op
+Pi
+Ih
+ON
+qZ
+HW
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+XY
+GK
+dp
+OI
+dp
+ha
+ha
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+"}
+(12,1,1) = {"
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+HW
+bv
+QJ
+ND
+QJ
+HW
+HW
+HW
+HW
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Xd
+dz
+dz
+dz
+ha
+ha
+ha
+ha
+lA
+ha
+ha
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(13,1,1) = {"
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+HW
+HW
+Ih
+Ih
+sB
+yQ
+DV
+XY
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Ou
+uT
+uT
+vd
+uT
+OV
+Jl
+Ky
+ZZ
+HW
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(14,1,1) = {"
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+HW
+qE
+hb
+PH
+Ps
+dN
+XY
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+uT
+SZ
+vd
+uT
+OV
+ZG
+QJ
+SI
+HW
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(15,1,1) = {"
+Si
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+HW
+gx
+iK
+KW
+QJ
+dN
+XY
+dz
+dz
+dz
+dz
+dz
+dz
+lQ
+dz
+dz
+XY
+HW
+HW
+HW
+au
+HW
+Fm
+yo
+ZX
+HW
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(16,1,1) = {"
+Si
+Si
+dz
+dz
+dz
+dz
+HW
+HW
+HW
+HW
+qe
+Ot
+VR
+PE
+XY
+dz
+dz
+dz
+dz
+dz
+uT
+uT
+SZ
+XY
+XY
+hP
+Xf
+HW
+HW
+HW
+ZG
+SI
+HW
+HW
+HW
+HW
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(17,1,1) = {"
+Si
+Si
+Si
+HW
+HW
+HW
+HW
+Ay
+QJ
+HW
+HW
+MG
+HW
+HW
+HW
+HW
+dz
+dz
+dz
+uT
+uT
+Xd
+XY
+XY
+Vv
+YR
+IP
+DD
+Wx
+Op
+ZG
+SI
+vd
+uT
+uT
+vd
+wW
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(18,1,1) = {"
+Si
+Si
+Si
+SB
+wW
+wW
+HW
+Np
+QJ
+HW
+Pz
+aJ
+sc
+OV
+uT
+vd
+uT
+gZ
+uT
+Xd
+uT
+XY
+XY
+Vv
+YR
+YL
+Xf
+YL
+Xf
+Op
+ZG
+SI
+HW
+HW
+HW
+HW
+dz
+SZ
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(19,1,1) = {"
+Si
+Si
+Si
+Si
+Si
+Ui
+Ym
+QJ
+RI
+HW
+Lf
+yK
+MI
+OV
+uT
+vd
+Xd
+uT
+uT
+uT
+SZ
+XY
+Vv
+YR
+Vv
+DD
+YL
+cn
+lq
+Op
+Gg
+KE
+lv
+HW
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(20,1,1) = {"
+Si
+Si
+Si
+Si
+Si
+Si
+HW
+hA
+YA
+HW
+HW
+HO
+HW
+HW
+au
+HW
+HW
+HW
+HW
+HW
+HW
+HW
+Xf
+YL
+YR
+IR
+IR
+IR
+IR
+HW
+HW
+Fm
+Qc
+HW
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(21,1,1) = {"
+Si
+Si
+Si
+Si
+Si
+Si
+ww
+cg
+hA
+QJ
+HW
+tW
+HR
+HW
+HW
+HW
+QQ
+Tn
+cj
+Tn
+Ky
+OM
+YL
+Xf
+Vv
+Rm
+NF
+IY
+IY
+fP
+HW
+Fm
+SI
+Op
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(22,1,1) = {"
+Si
+Si
+Si
+Si
+Si
+Si
+Op
+QJ
+QJ
+Oq
+Eo
+Fm
+Ww
+Ky
+Ky
+Tn
+pX
+Fh
+ZQ
+Dh
+Dh
+Ge
+YR
+ZT
+Xf
+CY
+IY
+TX
+Ap
+Zq
+HW
+ZG
+Qc
+Op
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+"}
+(23,1,1) = {"
+Si
+Si
+tT
+wW
+Si
+Si
+Op
+Pi
+QJ
+HW
+HW
+Fm
+ZQ
+Dh
+Dh
+Uf
+Dh
+Dh
+vN
+HW
+HW
+HW
+HW
+YR
+Vv
+IY
+IY
+IY
+IY
+HW
+HW
+Fm
+mX
+Op
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+"}
+(24,1,1) = {"
+Si
+Si
+HW
+HW
+HW
+HW
+HW
+HW
+HW
+HW
+zD
+yC
+re
+HW
+HW
+HW
+HW
+Zl
+Zl
+HW
+Ur
+uK
+HW
+HW
+HW
+HW
+HW
+Se
+HW
+HW
+FE
+ir
+SI
+HW
+HW
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+"}
+(25,1,1) = {"
+Si
+Si
+dz
+HW
+QJ
+Pi
+QJ
+QJ
+QJ
+aQ
+ZG
+Pi
+Qc
+HW
+qI
+yj
+HW
+qo
+Bh
+in
+rk
+tw
+HW
+gZ
+HW
+Wk
+Ck
+Wk
+PG
+HW
+Fm
+Kx
+ZX
+HW
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(26,1,1) = {"
+Si
+dz
+dz
+HW
+QJ
+QJ
+Pi
+oM
+TS
+Op
+Cx
+QJ
+Qc
+HW
+TT
+BK
+in
+qo
+qo
+HW
+HW
+HW
+HW
+uT
+On
+Bq
+Wk
+Wk
+HW
+HW
+Wq
+lU
+HW
+HW
+Si
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(27,1,1) = {"
+Si
+dz
+HW
+HW
+Pi
+SZ
+dz
+SB
+zo
+tE
+Fm
+QJ
+ze
+HW
+HW
+HW
+HW
+qo
+qo
+On
+uT
+uT
+wW
+uT
+HW
+HW
+HW
+HW
+HW
+zD
+CW
+Qc
+CE
+Si
+Si
+Si
+Si
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(28,1,1) = {"
+Si
+dz
+Op
+jP
+QJ
+dz
+QJ
+ZH
+qP
+Op
+Fm
+QJ
+SI
+Pi
+HW
+HM
+qB
+KJ
+qo
+HW
+HW
+HW
+HW
+Uj
+uT
+Kl
+SZ
+uT
+On
+En
+ci
+vN
+HW
+Si
+Si
+dz
+Si
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+"}
+(29,1,1) = {"
+Si
+dz
+gZ
+dz
+dz
+FI
+Pi
+QJ
+QJ
+Op
+Fm
+Pi
+Qc
+HW
+HW
+HW
+HW
+Bh
+qo
+in
+Li
+cl
+HW
+uT
+AW
+HW
+HW
+HW
+HW
+HW
+wE
+kQ
+HW
+Si
+Si
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+"}
+(30,1,1) = {"
+Si
+dz
+dz
+dz
+Pi
+jP
+QJ
+QJ
+sj
+KR
+BR
+Yx
+SI
+HW
+ur
+Ju
+in
+qo
+yd
+HW
+Ur
+YS
+HW
+gZ
+HW
+HW
+Tb
+LF
+IH
+yb
+MR
+UZ
+HW
+HW
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+"}
+(31,1,1) = {"
+Si
+dz
+dz
+dz
+HW
+jP
+jP
+jP
+HW
+HW
+HW
+ZG
+Qc
+HW
+Wg
+Cr
+HW
+qo
+qo
+HW
+HW
+HW
+HW
+Rt
+HW
+aU
+JM
+QJ
+Pi
+Pi
+Ji
+zi
+SQ
+HW
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+"}
+(32,1,1) = {"
+Si
+dz
+dz
+dz
+HW
+HW
+HW
+HW
+HW
+QJ
+HW
+Co
+Qc
+HW
+HW
+HW
+HW
+HW
+HW
+HW
+Sc
+xk
+iq
+tx
+xy
+Pj
+Pi
+Pi
+QJ
+IS
+Ji
+Pi
+zv
+HW
+HW
+HW
+HW
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+"}
+(33,1,1) = {"
+Si
+dz
+dz
+dz
+HW
+Vj
+KX
+Pi
+JH
+QJ
+Ym
+ms
+Ww
+Ky
+Ky
+Tn
+Tn
+Tn
+Ky
+Ky
+pT
+Pi
+QJ
+tH
+xy
+Tw
+Pi
+QJ
+Pi
+nG
+la
+Sn
+FN
+HW
+Si
+Si
+Si
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+"}
+(34,1,1) = {"
+Si
+dz
+dz
+dz
+HW
+xK
+QJ
+QJ
+fy
+oV
+Op
+wT
+YZ
+uD
+uD
+bX
+Pi
+Pi
+Pi
+QJ
+QJ
+QJ
+QJ
+tH
+HW
+Lg
+Sn
+Nj
+Je
+QJ
+Bx
+TF
+HW
+HW
+dz
+dz
+Si
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+"}
+(35,1,1) = {"
+Si
+dz
+dz
+dz
+HW
+KX
+xK
+QJ
+Pi
+QJ
+HW
+Ct
+zr
+zr
+zr
+Uf
+Uf
+Uf
+Uf
+Uf
+mc
+Pi
+EC
+Yw
+HW
+He
+mN
+HW
+GI
+xj
+YP
+nn
+HW
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+"}
+(36,1,1) = {"
+Si
+dz
+dz
+dz
+HW
+HW
+PN
+Pi
+QJ
+HW
+HW
+HW
+bf
+bf
+HW
+ha
+ha
+LY
+ha
+ha
+nW
+An
+nP
+HW
+HW
+HW
+HW
+HW
+HW
+HW
+HW
+HW
+HW
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+"}
+(37,1,1) = {"
+Si
+Si
+dz
+dz
+dz
+HW
+HW
+pH
+Op
+HW
+QJ
+QJ
+QJ
+Pi
+Ru
+ha
+qH
+ht
+gt
+ha
+HW
+LR
+HW
+HW
+Pi
+ps
+QJ
+Pi
+QJ
+QJ
+SZ
+Pi
+HW
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+"}
+(38,1,1) = {"
+Si
+Si
+Si
+Si
+dz
+HW
+QJ
+QJ
+Pi
+QJ
+QJ
+yF
+QJ
+QJ
+Pi
+ha
+iN
+JL
+QS
+ha
+KL
+DI
+Pi
+HW
+QJ
+Pi
+SB
+Si
+Si
+SZ
+QJ
+QJ
+HW
+Si
+Si
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+"}
+(39,1,1) = {"
+Si
+Si
+Si
+Si
+dz
+HW
+PD
+QJ
+QJ
+Bk
+QJ
+JH
+TN
+Pi
+QJ
+ha
+Eg
+xv
+ro
+ha
+Eq
+Pi
+QJ
+MK
+qK
+Pi
+Si
+dz
+Si
+Si
+Si
+wW
+Si
+Si
+dz
+dz
+Si
+Si
+dz
+dz
+Si
+Si
+Si
+Si
+"}
+(40,1,1) = {"
+Si
+Si
+Si
+Si
+dz
+HW
+dU
+Pi
+Pi
+QJ
+Pi
+iE
+Pi
+QJ
+Pi
+ha
+ha
+ha
+ha
+ha
+HW
+HW
+HW
+HW
+Si
+dz
+dz
+dz
+dz
+Si
+dz
+Si
+Si
+dz
+dz
+dz
+Si
+Si
+Si
+dz
+dz
+Si
+Si
+Si
+"}
+(41,1,1) = {"
+Si
+Si
+Si
+dz
+dz
+HW
+HW
+Op
+Op
+HW
+fJ
+HW
+Op
+Op
+HW
+HW
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+dz
+dz
+Si
+Si
+Si
+"}
+(42,1,1) = {"
+Si
+Si
+Si
+dz
+dz
+dz
+HW
+dz
+dz
+HW
+uT
+HW
+dz
+dz
+HW
+Si
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+dz
+Si
+"}
+(43,1,1) = {"
+Si
+Si
+Si
+Si
+dz
+dz
+dz
+dz
+dz
+HW
+uT
+HW
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+dz
+Si
+Si
+SZ
+SB
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+"}
+(44,1,1) = {"
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+dz
+HW
+fJ
+HW
+dz
+dz
+dz
+Si
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(45,1,1) = {"
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+"}
+(46,1,1) = {"
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+dz
+dz
+dz
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+Si
+Si
+Si
+Si
+Si
+"}
+(47,1,1) = {"
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+dz
+dz
+dz
+Si
+"}
+(48,1,1) = {"
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+Si
+dz
+Si
+"}
