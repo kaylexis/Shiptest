@@ -91,6 +91,19 @@
 	icon = 'icons/turf/floors/lava_grass_purple.dmi'
 	smooth_icon = 'icons/turf/floors/lava_grass_purple.dmi'
 
+/turf/open/floor/plating/grass/lava/safe
+	initial_gas_mix = OPENTURF_DEFAULT_ATMOS
+
+/turf/open/floor/plating/grass/lava/safe/orange
+	icon = 'icons/turf/floors/lava_grass_orange.dmi'
+	smooth_icon = 'icons/turf/floors/lava_grass_orange.dmi'
+	baseturfs = /turf/open/floor/plating/grass/lava/orange
+
+/turf/open/floor/plating/grass/lava/safe/purple
+	baseturfs = /turf/open/floor/plating/grass/lava/purple
+	icon = 'icons/turf/floors/lava_grass_purple.dmi'
+	smooth_icon = 'icons/turf/floors/lava_grass_purple.dmi'
+
 ///The Moss
 /turf/open/floor/plating/moss
 	name = "mossy carpet"
