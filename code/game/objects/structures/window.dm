@@ -402,6 +402,10 @@
 /obj/structure/window/unanchored
 	anchored = FALSE
 
+/obj/structure/window/indestructible
+	flags_1 = PREVENT_CLICK_UNDER_1 | NODECONSTRUCT_1
+	resistance_flags = INDESTRUCTIBLE | LAVA_PROOF | FIRE_PROOF | UNACIDABLE | ACID_PROOF
+
 /obj/structure/window/reinforced
 	name = "reinforced window"
 	desc = "A window that is reinforced with metal rods."
@@ -504,6 +508,10 @@
 	anchored = FALSE
 	state = WINDOW_OUT_OF_FRAME
 
+/obj/structure/window/reinforced/indestructible
+	flags_1 = PREVENT_CLICK_UNDER_1 | NODECONSTRUCT_1
+	resistance_flags = INDESTRUCTIBLE | LAVA_PROOF | FIRE_PROOF | UNACIDABLE | ACID_PROOF
+
 /obj/structure/window/plasma
 	name = "plasma window"
 	desc = "A window made out of a plasma-silicate alloy. It looks insanely tough to break and burn through."
@@ -536,6 +544,10 @@
 
 /obj/structure/window/plasma/unanchored
 	anchored = FALSE
+
+/obj/structure/window/plasma/indestructible
+	flags_1 = PREVENT_CLICK_UNDER_1 | NODECONSTRUCT_1
+	resistance_flags = INDESTRUCTIBLE | LAVA_PROOF | FIRE_PROOF | UNACIDABLE | ACID_PROOF
 
 /obj/structure/window/plasma/reinforced
 	name = "reinforced plasma window"
@@ -625,6 +637,10 @@
 	anchored = FALSE
 	state = WINDOW_OUT_OF_FRAME
 
+/obj/structure/window/plasma/reinforced/indestructible
+	flags_1 = PREVENT_CLICK_UNDER_1 | NODECONSTRUCT_1
+	resistance_flags = INDESTRUCTIBLE | LAVA_PROOF | FIRE_PROOF | UNACIDABLE | ACID_PROOF
+
 /obj/structure/window/reinforced/tinted
 	name = "tinted window"
 	icon_state = "twindow"
@@ -650,6 +666,10 @@
 /obj/structure/window/fulltile/unanchored
 	anchored = FALSE
 
+/obj/structure/window/fulltile/indestructible
+	flags_1 = PREVENT_CLICK_UNDER_1 | NODECONSTRUCT_1
+	resistance_flags = INDESTRUCTIBLE | LAVA_PROOF | FIRE_PROOF | UNACIDABLE | ACID_PROOF
+
 /obj/structure/window/plasma/fulltile
 	icon = 'icons/obj/smooth_structures/plasma_window.dmi'
 	icon_state = "plasma_window-0"
@@ -664,6 +684,10 @@
 
 /obj/structure/window/plasma/fulltile/unanchored
 	anchored = FALSE
+
+/obj/structure/window/plasma/fulltile/indestructible
+	flags_1 = PREVENT_CLICK_UNDER_1 | NODECONSTRUCT_1
+	resistance_flags = INDESTRUCTIBLE | LAVA_PROOF | FIRE_PROOF | UNACIDABLE | ACID_PROOF
 
 /obj/structure/window/plasma/reinforced/fulltile
 	icon = 'icons/obj/smooth_structures/rplasma_window.dmi'
@@ -681,6 +705,10 @@
 /obj/structure/window/plasma/reinforced/fulltile/unanchored
 	anchored = FALSE
 	state = WINDOW_OUT_OF_FRAME
+
+/obj/structure/window/plasma/reinforced/fulltile/indestructible
+	flags_1 = PREVENT_CLICK_UNDER_1 | NODECONSTRUCT_1
+	resistance_flags = INDESTRUCTIBLE | LAVA_PROOF | FIRE_PROOF | UNACIDABLE | ACID_PROOF
 
 /obj/structure/window/reinforced/fulltile
 	icon = 'icons/obj/smooth_structures/reinforced_window.dmi'
@@ -743,6 +771,10 @@
 /obj/structure/window/reinforced/fulltile/shuttle/unanchored
 	anchored = FALSE
 	state = WINDOW_OUT_OF_FRAME
+
+/obj/structure/window/reinforced/fulltile/shuttle/indestructible
+	flags_1 = PREVENT_CLICK_UNDER_1 | NODECONSTRUCT_1
+	resistance_flags = INDESTRUCTIBLE | LAVA_PROOF | FIRE_PROOF | UNACIDABLE | ACID_PROOF
 
 /obj/structure/window/plasma/reinforced/plastitanium
 	name = "plastitanium window"
