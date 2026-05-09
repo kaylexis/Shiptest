@@ -33,7 +33,7 @@
 	max_ammo = 10
 	instant_load = TRUE
 
-/obj/item/ammo_box/magazine/internal/boltaction/absolve
+/obj/item/ammo_box/magazine/internal/boltaction/absolvement
 	name = "Absolvement internal magazine"
 	ammo_type = /obj/item/ammo_casing/a700
 	caliber = "a700"

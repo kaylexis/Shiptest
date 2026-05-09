@@ -106,5 +106,5 @@
 	name = ".700 Ash bullet"
 	damage = 90
 	stamina = 10
-	speed = BULLET_SPEED_RIFLE
+	speed = BULLET_SPEED_SNIPER
 	bullet_identifier = "huge bullet"

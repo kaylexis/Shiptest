@@ -39,12 +39,12 @@
 
 //.700 Ash
 
-/obj/item/ammo_casing/a300
+/obj/item/ammo_casing/a700
 	name = ".700 Ash bullet casing"
 	desc = "A .700 Ash bullet casing."
 	icon_state = "big-brass"
-	caliber = "a300"
-	projectile_type = /obj/projectile/bullet/a300
+	caliber = "a700"
+	projectile_type = /obj/projectile/bullet/a700
 	stack_size = 5
 
 //6.5mm CLIP

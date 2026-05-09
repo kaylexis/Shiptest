@@ -781,27 +781,46 @@ EMPTY_GUN_HELPER(rifle/illestren/factory)
 	sawn_off = TRUE
 
 /obj/item/gun/ballistic/rifle/absolvement
-	name = "\improper HP Absolvement"
+	name = "HP Absolvement"
 	desc = "One of the most scarcely seen Hunter's Pride guns, issued only for the greatest of quarry, and hand-made from the finest parts and materials. Chambered in .700 Ash."
-	icon_state = "absolvement"
-	item_state = "absolvement"
 	icon = 'icons/obj/guns/manufacturer/hunterspride/48x32.dmi'
 	lefthand_file = 'icons/obj/guns/manufacturer/hunterspride/lefthand.dmi'
 	righthand_file = 'icons/obj/guns/manufacturer/hunterspride/righthand.dmi'
 	mob_overlay_icon = 'icons/obj/guns/manufacturer/hunterspride/onmob.dmi'
+	icon_state = "absolvement"
+	item_state = "absolvement"
 
-	eject_sound = 'sound/weapons/gun/rifle/vickland_unload.ogg'
-	eject_empty_sound = 'sound/weapons/gun/rifle/vickland_unload.ogg'
-
-	internal_magazine = FALSE
-	default_ammo_type = /obj/item/ammo_box/magazine/internal/boltaction/absolve
+	default_ammo_type = /obj/item/ammo_box/magazine/internal/boltaction/absolvement
 	allowed_ammo_types = list(
-		/obj/item/ammo_box/magazine/internal/boltaction/absolve,
+		/obj/item/ammo_box/magazine/internal/boltaction/absolvement,
 	)
+
+	fire_sound = 'sound/weapons/gun/sniper/shot.ogg'
+	rack_sound = 'sound/weapons/gun/rifle/bolt_out.ogg'
+	bolt_drop_sound = 'sound/weapons/gun/rifle/bolt_in.ogg'
+
+
+	can_be_sawn_off = FALSE
+
+	wield_slowdown = SNIPER_SLOWDOWN
+
+	recoil = 5
+	recoil_unwielded = 50
+
+	manufacturer = MANUFACTURER_HUNTERSPRIDE
 
 	unique_attachments = list(
 		/obj/item/attachment/scope,
 		/obj/item/attachment/long_scope,
+	)
+	slot_available = list(
+		ATTACHMENT_SLOT_SCOPE = 1,
+	)
+	slot_offsets = list(
+		ATTACHMENT_SLOT_SCOPE = list(
+			"x" = 19,
+			"y" = 21,
+		)
 	)
 
 //Lever-Action Rifles
