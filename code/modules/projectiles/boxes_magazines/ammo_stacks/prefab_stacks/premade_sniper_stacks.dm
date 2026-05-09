@@ -66,6 +66,22 @@
 		/obj/item/ammo_box/magazine/ammo_stack/prefilled/a300/trac = 2)
 	generate_items_inside(items_inside,src)
 
+// .700 Ash
+
+/obj/item/ammo_box/magazine/ammo_stack/prefilled/a700
+	ammo_type = /obj/item/ammo_casing/a700
+	max_ammo = 5
+
+/obj/item/storage/box/ammo/a700
+	name = "box of .700 ash ammo"
+	desc = "A box of standard .700 ash ammo."
+	icon_state = "700box"
+
+/obj/item/storage/box/ammo/a700/PopulateContents()
+	var/static/items_inside = list(
+		/obj/item/ammo_box/magazine/ammo_stack/prefilled/a700 = 4)
+	generate_items_inside(items_inside,src)
+
 //6.5mm CLIP
 
 /obj/item/ammo_box/magazine/ammo_stack/prefilled/a65clip

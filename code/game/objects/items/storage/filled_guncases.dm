@@ -71,6 +71,9 @@
 	gun_type = /obj/item/gun/ballistic/automatic/assault/invictus
 	mag_type = /obj/item/ammo_box/magazine/invictus_308_mag
 
+/obj/item/storage/guncase/absolvement
+	gun_type = /obj/item/gun/ballistic/rifle/absolvement
+
 /* Scarbourough */
 
 /obj/item/storage/guncase/pistol/a357

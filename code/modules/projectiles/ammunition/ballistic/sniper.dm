@@ -37,6 +37,16 @@
 	projectile_type = /obj/projectile/bullet/a300/trac
 	bullet_skin = "trac"
 
+//.700 Ash
+
+/obj/item/ammo_casing/a300
+	name = ".700 Ash bullet casing"
+	desc = "A .700 Ash bullet casing."
+	icon_state = "big-brass"
+	caliber = "a300"
+	projectile_type = /obj/projectile/bullet/a300
+	stack_size = 5
+
 //6.5mm CLIP
 
 /obj/item/ammo_casing/a65clip

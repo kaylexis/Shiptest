@@ -223,3 +223,10 @@
 	current_skin = "8x58mm"
 	for (var/i in 1 to 4)
 		new /obj/item/storage/box/ammo/a858(src)
+
+/obj/item/storage/toolbox/ammo/c300/PopulateContents()
+	name = "ammo can (.700 Ash)"
+	icon_state = "ammobox_700"
+	current_skin = ".700"
+	for (var/i in 1 to 4)
+		new /obj/item/storage/box/ammo/a700(src)

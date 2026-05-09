@@ -99,3 +99,12 @@
 	damage = 10
 	armour_penetration = 0
 	shrapnel_type = /obj/item/shrapnel/bullet/tracker/a308
+
+// .700 Ash
+
+/obj/projectile/bullet/a700
+	name = ".700 Ash bullet"
+	damage = 90
+	stamina = 10
+	speed = BULLET_SPEED_RIFLE
+	bullet_identifier = "huge bullet"

@@ -780,6 +780,30 @@ EMPTY_GUN_HELPER(rifle/illestren/factory)
 	desc = "An Illestren rifle sawn down to a ridiculously small size. There was probably a reason it wasn't made this short to begin with, but it still packs a punch."
 	sawn_off = TRUE
 
+/obj/item/gun/ballistic/rifle/absolvement
+	name = "\improper HP Absolvement"
+	desc = "One of the most scarcely seen Hunter's Pride guns, issued only for the greatest of quarry, and hand-made from the finest parts and materials. Chambered in .700 Ash."
+	icon_state = "absolvement"
+	item_state = "absolvement"
+	icon = 'icons/obj/guns/manufacturer/hunterspride/48x32.dmi'
+	lefthand_file = 'icons/obj/guns/manufacturer/hunterspride/lefthand.dmi'
+	righthand_file = 'icons/obj/guns/manufacturer/hunterspride/righthand.dmi'
+	mob_overlay_icon = 'icons/obj/guns/manufacturer/hunterspride/onmob.dmi'
+
+	eject_sound = 'sound/weapons/gun/rifle/vickland_unload.ogg'
+	eject_empty_sound = 'sound/weapons/gun/rifle/vickland_unload.ogg'
+
+	internal_magazine = FALSE
+	default_ammo_type = /obj/item/ammo_box/magazine/internal/boltaction/absolve
+	allowed_ammo_types = list(
+		/obj/item/ammo_box/magazine/internal/boltaction/absolve,
+	)
+
+	unique_attachments = list(
+		/obj/item/attachment/scope,
+		/obj/item/attachment/long_scope,
+	)
+
 //Lever-Action Rifles
 
 /obj/item/gun/ballistic/shotgun/flamingarrow

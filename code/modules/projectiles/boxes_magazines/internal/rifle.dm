@@ -32,3 +32,10 @@
 	caliber = "8x50mmR"
 	max_ammo = 10
 	instant_load = TRUE
+
+/obj/item/ammo_box/magazine/internal/boltaction/absolve
+	name = "Absolvement internal magazine"
+	ammo_type = /obj/item/ammo_casing/a700
+	caliber = "a700"
+	max_ammo = 1
+	multiload = TRUE
