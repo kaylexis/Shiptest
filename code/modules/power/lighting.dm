@@ -179,6 +179,8 @@ MAPPING_DIRECTIONAL_HELPERS(/obj/structure/light_construct, 32)
 						newlight = new /obj/machinery/light/built(loc)
 					if("bulb")
 						newlight = new /obj/machinery/light/small/built(loc)
+					if("cage")
+						newlight = new /obj/machinery/light/cage/built(loc)
 				newlight.setDir(dir)
 				newlight.pixel_x = pixel_x
 				newlight.pixel_y = pixel_y
@@ -200,6 +202,12 @@ MAPPING_DIRECTIONAL_HELPERS(/obj/structure/light_construct, 32)
 	name = "small light fixture frame"
 	icon_state = "bulb-construct-stage1"
 	fixture_type = "bulb"
+	sheets_refunded = 1
+
+/obj/structure/light_construct/small
+	name = "cage light fixture frame"
+	icon_state = "bulb-construct-stage1"
+	fixture_type = "cage"
 	sheets_refunded = 1
 
 MAPPING_DIRECTIONAL_HELPERS(/obj/structure/light_construct/small, 28)
@@ -324,7 +332,36 @@ MAPPING_DIRECTIONAL_HELPERS(/obj/machinery/light/small/built, 28)
 	status = LIGHT_EMPTY
 	update(0)
 
+// cage light fixtures
 
+/obj/machinery/light/cage
+	icon_state = "cage-on"
+	base_state = "cage"
+	fitting = "cage"
+	brightness = 4
+	desc = "A caged lighting fixture."
+	light_type = /obj/item/light/bulb
+	bulb_colour = "#FFDDBB" //Cit lighting
+	bulb_power = 0.75 //Cit lighting
+
+MAPPING_DIRECTIONAL_HELPERS(/obj/machinery/light/cage, 28)
+
+/obj/machinery/light/cage/broken
+	status = LIGHT_BROKEN
+	icon_state = "cage-broken"
+
+MAPPING_DIRECTIONAL_HELPERS(/obj/machinery/light/cage/broken, 28)
+
+/obj/machinery/light/cage/built
+	icon_state = "cage-empty"
+	start_with_cell = FALSE
+
+MAPPING_DIRECTIONAL_HELPERS(/obj/machinery/light/cage/built, 28)
+
+/obj/machinery/light/cage/built/Initialize()
+	. = ..()
+	status = LIGHT_EMPTY
+	update(0)
 
 // create a new lighting fixture
 /obj/machinery/light/Initialize(mapload)
