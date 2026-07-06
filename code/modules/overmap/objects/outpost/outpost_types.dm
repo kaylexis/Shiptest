@@ -135,6 +135,11 @@
 	dock_width = 56
 	dock_height = 40
 
+/datum/map_template/outpost/ngr_rock_outskirts
+	name = "ngr_rock_outskirts"
+	outpost_name = "Agni Outskirts"
+	outpost_administrator = "The NGR Bureau Of Development"
+
 /*
 	CLIP Ocean outpost //I really hated ghost leviathans, man
 */
@@ -263,6 +268,33 @@
 		ZTRAIT_GRAVITY = STANDARD_GRAVITY,
 		ZTRAIT_BASETURF = /turf/open/floor/plating/asteroid/rockplanet/safe/lit
 	)
+
+/datum/overmap/outpost/ngr_rock_outskirts
+	token_icon_state = "station_asteroid"
+	main_template = /datum/map_template/outpost/ngr_rock_outskirts
+	elevator_template = /datum/map_template/outpost/elevator_rock
+	weather_controller_type = /datum/weather_controller/rockplanet_safe
+	hangar_templates = list(
+		/datum/map_template/outpost/hangar/ngr_rock_20x20,
+		/datum/map_template/outpost/hangar/ngr_rock_40x20,
+		/datum/map_template/outpost/hangar/ngr_rock_40x40,
+		/datum/map_template/outpost/hangar/ngr_rock_56x20,
+		/datum/map_template/outpost/hangar/ngr_rock_56x40
+	)
+
+	main_level_ztraits = list(
+		ZTRAIT_STATION = TRUE,
+		ZTRAIT_SUN_TYPE = AZIMUTH,
+		ZTRAIT_GRAVITY = STANDARD_GRAVITY,
+		ZTRAIT_BASETURF = /turf/open/floor/plating/asteroid/rockplanet/safe/lit
+	)
+	hangar_ztraits =  list(
+		ZTRAIT_GAS_GIANT = TRUE,
+		ZTRAIT_SUN_TYPE = STATIC_EXPOSED,
+		ZTRAIT_GRAVITY = STANDARD_GRAVITY,
+		ZTRAIT_BASETURF = /turf/open/floor/plating/asteroid/rockplanet/safe/lit
+	)
+
 
 /datum/overmap/outpost/clip_ocean
 	token_icon_state = "station_planet"
